@@ -18,34 +18,48 @@ students in the class.
 Other than these three times, there are no scheduled meetings for the class. You are
 free to work on the class at whatever time is convenient for you.
 
-### Markdown
+## Instructors
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### ![Professor Dennis Sun](http://calpoly.edu/~dsun09)
 
-```markdown
-Syntax highlighted code block
+- Office Hours: MWF 8-9 P.M. on [Discord](https://discord.gg/nprBapB)
 
-# Header 1
-## Header 2
-### Header 3
+### Kyle Muir
 
-- Bulleted
-- List
+- Office Hours: TuTh at 8-9 P.M. on [Discord](https://discord.gg/nprBapB)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Discord
 
-[Link](url) and ![Image](src)
-```
+All communication for this course will take place on Discord, which 
+is an application that allows users to communicate via text, audio, and video. It is 
+similar to Slack. You should install the [Discord app](https://discord.com/) if
+you do not already have it.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+To join the Discord channel for this class, go to [this link](https://discord.gg/nprBapB) 
+and follow the instructions.
 
-### Jekyll Themes
+The instructors will hold office hours by hanging out in the "Office Hours" voice channel. 
+In this voice channel, you will be able to chat with the instructors by voice or video; you 
+will also be able to share your screen.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dlsun/Stat350Summer2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+If you have questions outside of office hours, please type your question in one 
+of the chat channels, and the instructors will try to respond to them as soon as possible.
 
-### Support or Contact
+For private questions, you can send direct messages to Professor Sun on Discord.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+## Grading
+
+Your grade will be calculated as follows.
+
+- Activities: 1-5 points each
+- Exam 1: 150 points
+- Exam 2: 150 points
+- Final Project: 300 points
+
+
+## Final Project
+
+For the final project, you can work in a group of up to 3 people. Your task will be to 
+study a random process and prepare a lesson on it.
