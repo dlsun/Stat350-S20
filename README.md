@@ -6,7 +6,9 @@
 
 This class is offered _asynchronously_ over a period of 8 weeks from June 22 to August 14. 
 Each weekday before 7 AM, the videos and activities for the day will be posted. You are 
-responsible for completing them before 11:59 PM each day.
+responsible for completing them before 11:59 PM each day. The videos and activities for 
+each day are expected to take **2-3 hours** (remember that they are taking the place of 
+both lecture and homework), so please budget enough time.
 
 There will be two midterm exams, which must be taken at the following times:
 
