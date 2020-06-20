@@ -1,3 +1,6 @@
+---
+title: STAT 350 Summer 2020
+---
 # Lectures
 
 ## Monday, June 22
