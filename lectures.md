@@ -5,7 +5,7 @@ title: STAT 350 Summer 2020
 
 ## Monday, June 22
 
-1. Read [the syllabus]("http://dlsun.github.io/Stat350-S20/"), and complete the syllabus quiz.
+1. Read [the syllabus](http://dlsun.github.io/Stat350-S20/), and complete the syllabus quiz.
 2. Learn about "Why Study Probability?", then measure your understanding.
 3. Learn about "Probability and Counting", then measure your understanding.
 4. Learn about "Permutations", then measure your understanding.
