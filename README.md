@@ -1,6 +1,6 @@
 # Syllabus
 
-[Click here for day-by-day lecture materials](http://dlsun.github.io/STAT350-S20/lectures)
+[Click here for day-by-day lecture materials](http://dlsun.github.io/Stat350-S20/lectures)
 
 ## Course Organization
 
