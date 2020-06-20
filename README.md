@@ -1,10 +1,22 @@
 # Stat 350 Summer 2020
 
-## Welcome to GitHub Pages
+## Course Organization
 
-You can use the [editor on GitHub](https://github.com/dlsun/Stat350Summer2020/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This class is offered _asynchronously_ over a period of 8 weeks from June 22 to August 14. 
+Each weekday before 7 AM, the videos and activities for the day will be posted. You are 
+responsible for completing them before 11:59 PM each day.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+There will be two midterm exams, which must be taken at the following times:
+
+- Friday, July 10, 12:10 - 1:30 PM
+- Friday, July 31, 12:10 - 1:30 PM
+
+In addition, there will be final project presentations, scheduled for
+Friday, August 19. The exact time will be determined after consultation with the 
+students in the class.
+
+Other than these three times, there are no scheduled meetings for the class. You are
+free to work on the class at whatever time is convenient for you.
 
 ### Markdown
 
