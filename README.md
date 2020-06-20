@@ -20,7 +20,7 @@ free to work on the class at whatever time is convenient for you.
 
 ## Instructors
 
-### ![Professor Dennis Sun](http://calpoly.edu/~dsun09)
+### [Professor Dennis Sun](http://calpoly.edu/~dsun09)
 
 - Office Hours: MWF 8-9 P.M. on [Discord](https://discord.gg/nprBapB)
 
@@ -51,12 +51,14 @@ For private questions, you can send direct messages to Professor Sun on Discord.
 
 ## Grading
 
-Your grade will be calculated as follows.
+Your grade will be calculated by totaling the number of points you earn:
 
 - Activities: 1-5 points each
 - Exam 1: 150 points
 - Exam 2: 150 points
 - Final Project: 300 points
+
+and dividing by the total number of possible points.
 
 
 ## Final Project
