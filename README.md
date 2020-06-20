@@ -1,4 +1,6 @@
-# Stat 350 Summer 2020
+# Syllabus
+
+[Click here for day-by-day lecture materials](http://dlsun.github.io/STAT350-S20/lectures)
 
 ## Course Organization
 
@@ -61,7 +63,16 @@ Your grade will be calculated by totaling the number of points you earn:
 and dividing by the total number of possible points.
 
 
+## Exams
+
+There will be two midterm exams, administered online on July 10 and July 31 from 12:10 to 1:30 PM. 
+These exams will be open-book and open Internet. The only rule is that you are not allowed to 
+talk to anybody other than the instructors during the exam.
+
+There will not be a final exam. In lieu of a final exam, there will be a group final project.
+
+
 ## Final Project
 
-For the final project, you can work in a group of up to 3 people. Your task will be to 
+For the final project, you may work alone or with another student. Your task will be to 
 study a random process and prepare a lesson on it.
