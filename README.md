@@ -1,3 +1,5 @@
+# Stat 350 Summer 2020
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/dlsun/Stat350Summer2020/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
