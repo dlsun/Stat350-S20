@@ -16,10 +16,10 @@ title: STAT 350 Summer 2020
 
 ## Tuesday, June 23
 
-1. Analyze the results from yesterday's simulation.
-2. Learn about "Box Models", then measure your understanding.
-3. Learn about "Double Counting", then measure your understanding.
-4. Complete the simulation activity.
+1. Analyze [the results from yesterday's simulation](https://colab.research.google.com/github/dlsun/Stat350-S20/blob/master/colabs/Analyzing_Simulation_Activity_6_22.ipynb).
+2. Learn about ["Box Models"](https://dlsun.github.io/probability/box-models.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/67662).
+3. Learn about ["Sampling with Replacement"](https://dlsun.github.io/probability/replacement.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/67669).
+4. Complete the [simulation activity](https://forms.gle/tLQCnF7ngNh4SF1i8).
 
 ## Wednesday, June 24
 
