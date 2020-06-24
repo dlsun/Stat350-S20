@@ -27,7 +27,7 @@ title: STAT 350 Summer 2020
 2. Learn about ["Double Counting"](https://dlsun.github.io/probability/double-counting.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/67864).
 3. Learn about ["Conditional Probability"](https://dlsun.github.io/probability/conditional.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/67865).
 4. Learn about ["Independence"](https://dlsun.github.io/probability/independence.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/67866).
-5. Complete the simulation activity.
+5. Complete the [simulation activity](https://forms.gle/7fyRv3AtAePWsnuDA).
 
 ## Thursday, June 25
 
