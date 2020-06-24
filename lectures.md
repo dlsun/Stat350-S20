@@ -23,10 +23,10 @@ title: STAT 350 Summer 2020
 
 ## Wednesday, June 24
 
-1. Analyze the results from yesterday's simulation.
-2. Learn about "The Complement Rule", then measure your understanding.
-3. Learn about "Conditional Probability", then measure your understanding.
-4. Learn about "Independence", then measure your understanding.
+1. Look at [the results from yesterday's simulation](mere_simulation.png).
+2. Learn about ["Double Counting"](https://dlsun.github.io/probability/double-counting.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/67864).
+3. Learn about ["Conditional Probability"](https://dlsun.github.io/probability/conditional.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/67865).
+4. Learn about ["Independence"](https://dlsun.github.io/probability/independence.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/67866).
 5. Complete the simulation activity.
 
 ## Thursday, June 25
