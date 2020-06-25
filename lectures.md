@@ -31,10 +31,10 @@ title: STAT 350 Summer 2020
 
 ## Thursday, June 25
 
-1. Analyze the results from yesterday's simulation.
-2. Learn about "The Law of Total Probability", then measure your understanding.
-3. Learn about "Bayes' Rule", then measure your understanding.
-4. Complete the simulation activity.
+1. Look at [the results from yesterday's simulation](https://colab.research.google.com/github/dlsun/Stat350-S20/blob/master/Analyzing_6_24_Simulation.ipynb).
+2. Learn about ["The Law of Total Probability"](https://dlsun.github.io/probability/total-probability.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/68188).
+3. Learn about ["Bayes' Theorem"](https://dlsun.github.io/probability/bayes.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/68189).
+4. Complete the [simulation activity](https://forms.gle/aL2PhujCjs3Geiyj6).
 
 ## Friday, June 26
 
