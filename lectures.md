@@ -38,7 +38,7 @@ title: STAT 350 Summer 2020
 
 ## Friday, June 26
 
-1. Analyze the results from yesterday's simulation.
-2. Learn about "Random Variables", then measure your understanding.
-3. Learn about "Cumulative Distribution Functions", then measure your understanding.
-4. Complete the simulation activity.
+1. [Analyze the results from yesterday's simulation](https://canvas.calpoly.edu/courses/25458/assignments/68311).
+2. Learn about ["Random Variables"](https://dlsun.github.io/probability/rv.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/68285).
+3. Learn about ["Cumulative Distribution Functions"](https://dlsun.github.io/probability/cdf.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/68287).
+4. (Optional) Work with a partner on [Case Study 1](https://colab.research.google.com/drive/10P6JPVswCnySqycFPPxPZXocTim5xMmI) on the probability of winning in the casino game craps. If you complete it, it will replace your lowest grade on this week's activities. The points don't justify the time, but I hope that the case study is interesting and a good review of many concepts you have learned this week. It is due at midnight on Monday, if you want to do it.
