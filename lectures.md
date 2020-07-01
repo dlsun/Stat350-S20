@@ -52,7 +52,7 @@ need to install any software on your own machine.
 3. (Optional) Complete [Case Study 1](https://colab.research.google.com/drive/10P6JPVswCnySqycFPPxPZXocTim5xMmI).
 
 
-## Tuesday, June 29
+## Tuesday, June 30
 
 1. Learn about ["The Binomial Distribution"](https://dlsun.github.io/probability/binomial.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/69102). You should be comfortable calculating probabilities using either 
 Python or R; you do not need to know both. I encourage you to use Python or R in Colab, like I do in the lesson, so you do not 
@@ -60,7 +60,7 @@ need to install any software on your own machine.
 2. Follow up on yesterday's [simulation activity](https://canvas.calpoly.edu/courses/25458/assignments/69113).
 3. Complete the [simulation activity](https://forms.gle/hzhkP3oW9o7CRA98A).
 
-## Wednesday, June 30
+## Wednesday, July 1
 
 1. Learn about ["The Geometric Distribution"](https://dlsun.github.io/probability/geometric.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/69498). 
 2. Learn about ["The Negative Binomial Distribution"](https://dlsun.github.io/probability/negative-binomial.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/69501). 
