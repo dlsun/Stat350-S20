@@ -65,3 +65,13 @@ need to install any software on your own machine.
 1. Learn about ["The Geometric Distribution"](https://dlsun.github.io/probability/geometric.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/69498). 
 2. Learn about ["The Negative Binomial Distribution"](https://dlsun.github.io/probability/negative-binomial.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/69501). 
 3. Complete the [activity](https://canvas.calpoly.edu/courses/25458/assignments/69502). (The activity today is not a simulation; it is more of a mental exercise.)
+
+## Thursday, July 2
+
+1. Learn about ["The Poisson Distribution"](https://dlsun.github.io/probability/poisson.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/97829). 
+2. Learn about ["The Poisson Process"](https://dlsun.github.io/probability/poisson-process.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/99493). 
+
+## Friday, July 3
+
+1. No Class - Independence Day
+2. Information about Exam 1 next Friday.
