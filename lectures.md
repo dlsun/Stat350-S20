@@ -75,3 +75,9 @@ need to install any software on your own machine.
 
 1. No Class - Independence Day
 2. Information about Exam 1 next Friday.
+
+## Monday, July 6
+
+1. Learn about ["Joint Distributions"](https://dlsun.github.io/probability/joint-discrete.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/100339).
+2. Complete the [simulation activity](https://forms.gle/XDHcy3bTenwtp6eH9).
+3. Read instructions for [Exam 1](https://dlsun.github.io/Stat350-S20/exam1), which is this Friday, July 10.
