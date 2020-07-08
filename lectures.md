@@ -87,3 +87,8 @@ need to install any software on your own machine.
 1. Learn about ["Marginal Distributions"](https://dlsun.github.io/probability/marginal-discrete.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/100576).
 2. Learn about ["Conditional Distributions"](https://dlsun.github.io/probability/conditional-discrete.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/100583).
 2. Analyze the [simulation results](https://canvas.calpoly.edu/courses/25458/assignments/101839).
+
+## Wednesday, July 8
+
+1. Learn about ["Marginal Distributions"](https://dlsun.github.io/probability/sums-discrete.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/103152).
+2. Fill out [this form for Exam 1](https://forms.gle/P5CCPrEu7nyu6ivh9).
