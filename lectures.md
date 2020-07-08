@@ -90,5 +90,5 @@ need to install any software on your own machine.
 
 ## Wednesday, July 8
 
-1. Learn about ["Marginal Distributions"](https://dlsun.github.io/probability/sums-discrete.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/103152).
+1. Learn about ["Sums of Random Variables"](https://dlsun.github.io/probability/sums-discrete.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/103152).
 2. Fill out [this form for Exam 1](https://forms.gle/P5CCPrEu7nyu6ivh9).
