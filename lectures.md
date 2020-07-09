@@ -92,3 +92,16 @@ need to install any software on your own machine.
 
 1. Learn about ["Sums of Random Variables"](https://dlsun.github.io/probability/sums-discrete.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/103152).
 2. Fill out [this form for Exam 1](https://forms.gle/P5CCPrEu7nyu6ivh9).
+
+## Thursday, July 9
+
+**Note:** These activities are due on Friday at midnight! 
+
+1. Learn about ["Expected Value"](https://dlsun.github.io/probability/expected-value.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/103612).
+2. Learn about ["Pascal's Wager"](https://dlsun.github.io/probability/ev-infinity.html#pascals-wager) and complete [this activity](https://canvas.calpoly.edu/courses/25458/assignments/103636).
+3. Learn about ["The St. Petersburg Paradox"](https://dlsun.github.io/probability/ev-infinity.html#st-petersburg) and complete [this activity](https://canvas.calpoly.edu/courses/25458/assignments/103639)
+
+
+## Friday, July 10
+
+Exam 1
