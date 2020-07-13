@@ -111,7 +111,7 @@ Exam 1
 
 1. Learn about ["LOTUS"](https://dlsun.github.io/probability/lotus.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/104434).
 2. Learn about ["2D LOTUS"](https://dlsun.github.io/probability/lotus2d.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/104456).
-3. Complete the [simulation activity]().
+3. Complete the [simulation activity](https://forms.gle/fbVd5VdnPeN2AYqB8).
 
 ## Tuesday, July 7
 
