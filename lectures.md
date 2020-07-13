@@ -105,3 +105,29 @@ need to install any software on your own machine.
 ## Friday, July 10
 
 Exam 1
+
+
+## Monday, July 13
+
+1. Learn about ["LOTUS"](https://dlsun.github.io/probability/lotus.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/104434).
+2. Learn about ["2D LOTUS"](https://dlsun.github.io/probability/lotus2d.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/104456).
+3. Complete the [simulation activity]().
+
+## Tuesday, July 7
+
+1. Linearity of Expectation
+2. Expected Value of a Product
+
+## Wednesday, July 8
+
+1. Variance
+2. Covariance
+
+## Thursday, July 9
+
+1. Properties of Covariance
+
+## Friday, July 10
+
+1. The Sample Mean
+2. Law of Large Numbers
