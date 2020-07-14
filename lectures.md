@@ -115,8 +115,9 @@ Exam 1
 
 ## Tuesday, July 7
 
-1. Linearity of Expectation
-2. Expected Value of a Product
+1. [Follow up on yesterday's simulation](https://canvas.calpoly.edu/courses/25458/assignments/104887).
+1. Learn about ["Linearity of Expectation"](https://dlsun.github.io/probability/linearity.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/104828).
+2. Learn about ["The Expected Value of a Product"](https://dlsun.github.io/probability/ev-product.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/104833).
 
 ## Wednesday, July 8
 
