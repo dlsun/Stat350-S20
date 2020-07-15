@@ -121,8 +121,8 @@ Exam 1
 
 ## Wednesday, July 8
 
-1. Variance
-2. Covariance
+1. Learn about ["Variance"](https://dlsun.github.io/probability/variance.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/105126).
+2. Learn about ["Covariance"](https://dlsun.github.io/probability/covariance.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/105128).
 
 ## Thursday, July 9
 
