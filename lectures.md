@@ -126,7 +126,8 @@ Exam 1
 
 ## Thursday, July 9
 
-1. Properties of Covariance
+1. Learn about ["Properties of Covariance"](https://dlsun.github.io/probability/cov-properties.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/105468).
+2. Complete the [simulation activity](https://forms.gle/oSrdWNesfweqzXQn7)
 
 ## Friday, July 10
 
