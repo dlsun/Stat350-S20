@@ -131,5 +131,6 @@ Exam 1
 
 ## Friday, July 10
 
-1. The Sample Mean
-2. Law of Large Numbers
+1. Learn about ["The Random Walk"](https://dlsun.github.io/probability/random-walk.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/105668).
+2. [Review the results](https://colab.research.google.com/drive/1bin4_M-HJQaUXrQAxRcFzkwLV8krNcR2?usp=sharing) from yesterday's simulation activity.
+3. Learn about ["The Law of Large Numbers"](https://dlsun.github.io/probability/lln.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/105669).
