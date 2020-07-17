@@ -113,23 +113,23 @@ Exam 1
 2. Learn about ["2D LOTUS"](https://dlsun.github.io/probability/lotus2d.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/104456).
 3. Complete the [simulation activity](https://forms.gle/fbVd5VdnPeN2AYqB8).
 
-## Tuesday, July 7
+## Tuesday, July 14
 
 1. [Follow up on yesterday's simulation](https://canvas.calpoly.edu/courses/25458/assignments/104887).
 1. Learn about ["Linearity of Expectation"](https://dlsun.github.io/probability/linearity.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/104828).
 2. Learn about ["The Expected Value of a Product"](https://dlsun.github.io/probability/ev-product.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/104833).
 
-## Wednesday, July 8
+## Wednesday, July 15
 
 1. Learn about ["Variance"](https://dlsun.github.io/probability/variance.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/105126).
 2. Learn about ["Covariance"](https://dlsun.github.io/probability/covariance.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/105128).
 
-## Thursday, July 9
+## Thursday, July 16
 
 1. Learn about ["Properties of Covariance"](https://dlsun.github.io/probability/cov-properties.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/105468).
 2. Complete the [simulation activity](https://forms.gle/oSrdWNesfweqzXQn7)
 
-## Friday, July 10
+## Friday, July 17
 
 1. Learn about ["The Random Walk"](https://dlsun.github.io/probability/random-walk.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/105668).
 2. [Review the results](https://colab.research.google.com/drive/1bin4_M-HJQaUXrQAxRcFzkwLV8krNcR2?usp=sharing) from yesterday's simulation activity.
