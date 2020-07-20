@@ -135,3 +135,29 @@ Exam 1
 2. [Review the results](https://colab.research.google.com/drive/1bin4_M-HJQaUXrQAxRcFzkwLV8krNcR2?usp=sharing) from yesterday's simulation activity.
 3. Learn about ["The Law of Large Numbers"](https://dlsun.github.io/probability/lln.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/105669).
 4. Turn in [Case for Partial Credit](https://canvas.calpoly.edu/courses/25458/assignments/100341) for Exam 1.
+
+## Monday, July 20
+
+1. Watch ["Making Probability Mathematical"](https://www.youtube.com/watch?v=-6HxjiW_KwA), focusing on the dartboard 
+example at the end. The video ends around 11:20; the last 3 minutes are advertising.
+2. Learn about ["Continuous Random Variables"](https://dlsun.github.io/probability/continuous.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/106375).
+
+## Tuesday, July 21
+
+1. Uniform Distribution
+2. Exponential Distribution
+
+## Wednesday, July 22
+
+1. Transformations
+
+## Thursday, July 23
+
+1. Expected Value
+2. LOTUS
+3. Variance
+
+## Friday, July 24
+
+1. Normal Distribution
+2. Exam 2 Info
