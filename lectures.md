@@ -144,8 +144,9 @@ example at the end. The video ends around 11:20; the last 3 minutes are advertis
 
 ## Tuesday, July 21
 
-1. Uniform Distribution
-2. Exponential Distribution
+1. Learn about ["The Uniform Distribution"](https://dlsun.github.io/probability/uniform.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/106717).
+2. Learn about ["The Exponential Distribution"](https://dlsun.github.io/probability/exponential.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/106721).
+3. Complete [the simulation activity](https://forms.gle/csQWpwFzUeB4nPuF7).
 
 ## Wednesday, July 22
 
