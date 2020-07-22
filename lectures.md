@@ -150,7 +150,9 @@ example at the end. The video ends around 11:20; the last 3 minutes are advertis
 
 ## Wednesday, July 22
 
-1. Transformations
+1. Review the [simulation results from yesterday](https://colab.research.google.com/drive/1SAb_95TdTrSCswE0iaUs2LDtMhQYlWDE?usp=sharing). 
+(They didn't turn out so well; there's a much better simulation in the lesson.)
+2. Learn about ["Transformations"](https://dlsun.github.io/probability/transformations.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/107268).
 
 ## Thursday, July 23
 
