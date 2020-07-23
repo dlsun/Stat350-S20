@@ -161,7 +161,7 @@ example at the end. The video ends around 11:20; the last 3 minutes are advertis
 3. Review the lesson on ["LOTUS"](https://dlsun.github.io/probability/lotus.html).
 4. Learn about ["LOTUS for Continuous Random Variables"](https://dlsun.github.io/probability/lotus-continuous.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/107687).
 5. Review the lesson on ["Variance"](https://dlsun.github.io/probability/variance.html).
-6. Learn about ["Variance for Continuous Random Variables"](https://dlsun.github.io/probability/var-continuous.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/107689).
+6. Learn about ["Variance for Continuous Random Variables"](https://dlsun.github.io/probability/var-continuous.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/107815).
 
 ## Friday, July 24
 
