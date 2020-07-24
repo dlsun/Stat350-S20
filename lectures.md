@@ -165,5 +165,5 @@ example at the end. The video ends around 11:20; the last 3 minutes are advertis
 
 ## Friday, July 24
 
-1. Normal Distribution
-2. Exam 2 Info
+1. Learn about ["the Normal Distribution"](https://dlsun.github.io/probability/normal.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/108467).
+2. Read instructions for [Exam 2](https://dlsun.github.io/Stat350-S20/exam2), which is next Friday, July 31.
