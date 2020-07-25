@@ -29,8 +29,8 @@ That includes: other students, the TA, tutors, family members, people on Reddit,
     - No posting exam questions on the Internet. Remember that every student will have a unique exam. 
 If you post questions from your exam, I will know that you did it and be able to prove it. You are equally
 responsible if someone else posts questions from your exam. That is why it is important that you do not share the 
-link to your exam with anyone else.
-- Violation of either rule will result in an automatic 0% on this exam and a report to the Office of Student 
+questions on your exam with anyone else.
+- Violation of either rule will result in an automatic grade of F in the course and a report to the Office of Student 
 Rights and Responsibilities (OSRR).
 
 ## After the Exam
