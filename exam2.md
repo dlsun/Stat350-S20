@@ -28,10 +28,13 @@ If you are taking pictures with your phone, please enhance and align the images 
 That includes: other students, the TA, tutors, family members, people on Reddit, etc. 
     - No posting exam questions on the Internet. Remember that every student will have a unique exam. 
 If you post questions from your exam, I will know that you did it and be able to prove it. You are equally
-responsible if someone else posts questions from your exam. That is why it is important that you do not share the 
-questions on your exam with anyone else.
-- Violation of either rule will result in an automatic grade of F in the course and a report to the Office of Student 
-Rights and Responsibilities (OSRR).
+responsible if someone else posts questions from your exam. That is why it is important that you do not share 
+your exam questions with anyone else.
+- Students suspected of cheating will be required to explain the process they used to arrive at an answer 
+in a one-on-one interview with the professor.
+- Violation of this policy will result in an automatic grade of F in the course and a report to the Office of Student 
+Rights and Responsibilities (OSRR). Note that a failing grade due to academic dishonesty is permanent (the F grade 
+is not replaced if you retake the class) and is noted on your transcript.
 
 ## After the Exam
 
