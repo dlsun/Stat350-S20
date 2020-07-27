@@ -167,3 +167,12 @@ example at the end. The video ends around 11:20; the last 3 minutes are advertis
 
 1. Learn about ["the Normal Distribution"](https://dlsun.github.io/probability/normal.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/108467).
 2. Read instructions for [Exam 2](https://dlsun.github.io/Stat350-S20/exam2), which is next Friday, July 31.
+
+## Monday, July 27
+
+1. Review ["Joint Distributions (for Discrete Random Variables)"](https://dlsun.github.io/probability/joint-discrete.html).
+2. Learn about ["Joint Continuous Distributions"](https://dlsun.github.io/probability/joint-continuous.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/109270).
+3. Review ["Marginal Distributions (for Discrete Random Variables)"](https://dlsun.github.io/probability/marginal-discrete.html).
+4. Learn about ["Joint Continuous Distributions"](https://dlsun.github.io/probability/marginal-continuous.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/109271).
+
+
