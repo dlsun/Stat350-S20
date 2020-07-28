@@ -175,4 +175,10 @@ example at the end. The video ends around 11:20; the last 3 minutes are advertis
 3. Review ["Marginal Distributions (for Discrete Random Variables)"](https://dlsun.github.io/probability/marginal-discrete.html).
 4. Learn about ["Marginal Continuous Distributions"](https://dlsun.github.io/probability/marginal-continuous.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/109271).
 
+## Tuesday, July 28
 
+1. Review ["2D LOTUS"](https://dlsun.github.io/probability/lotus2d.html), ["Expected Value of a Product"](https://dlsun.github.io/probability/ev-product.html), and ["Linearity of Expectation"](https://dlsun.github.io/probability/linearity.html) for discrete random variables.
+2. Learn about ["Expectations of Joint Continuous Distributions"](https://dlsun.github.io/probability/ev-joint-continuous.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/109520).
+3. Review ["Covariance"](https://dlsun.github.io/probability/covariance.html) and ["Properties of Covariance"](https://dlsun.github.io/probability/cov-properties.html) for discrete random variables.
+4. Learn about ["Covariance of Continuous Random Variables"](https://dlsun.github.io/probability/cov-continuous.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/109521).
+5. Tomorrow's assignment is required to be completed in groups of 2 or 3. Find a partner (or partners), and arrange a time that you will be able to work on the assignment tomorrow. Post on Discord if you are having trouble finding a partner.
