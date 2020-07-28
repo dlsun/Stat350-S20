@@ -173,6 +173,6 @@ example at the end. The video ends around 11:20; the last 3 minutes are advertis
 1. Review ["Joint Distributions (for Discrete Random Variables)"](https://dlsun.github.io/probability/joint-discrete.html).
 2. Learn about ["Joint Continuous Distributions"](https://dlsun.github.io/probability/joint-continuous.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/109270).
 3. Review ["Marginal Distributions (for Discrete Random Variables)"](https://dlsun.github.io/probability/marginal-discrete.html).
-4. Learn about ["Joint Continuous Distributions"](https://dlsun.github.io/probability/marginal-continuous.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/109271).
+4. Learn about ["Marginal Continuous Distributions"](https://dlsun.github.io/probability/marginal-continuous.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/109271).
 
 
