@@ -182,3 +182,20 @@ example at the end. The video ends around 11:20; the last 3 minutes are advertis
 3. Review ["Covariance"](https://dlsun.github.io/probability/covariance.html) and ["Properties of Covariance"](https://dlsun.github.io/probability/cov-properties.html) for discrete random variables.
 4. Learn about ["Covariance of Continuous Random Variables"](https://dlsun.github.io/probability/cov-continuous.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/109521).
 5. Tomorrow's assignment is required to be completed in groups of 2 or 3. Find a partner (or partners), and arrange a time that you will be able to work on the assignment tomorrow. Post on Discord if you are having trouble finding a partner.
+
+## Wednesday, July 29
+
+The activities for today are tedious but are manageable if you divide up the work. That is why I am requiring that you work in groups of 2 or 3.
+
+1. Review ["Sums of Discrete Random Variables"](https://dlsun.github.io/probability/sums-discrete.html).
+2. Learn about ["Sums of Continuous Random Variables"](https://dlsun.github.io/probability/sums-continuous.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/109745). Essential Practice #1 is a beast, but it will make you a master at convolution. This is one where it definitely pays to work in a group, drawing it out together and dividing up the calculations.
+3. Complete the Colab activity ["Simulating Sums of Independent Random Variables"](https://colab.research.google.com/drive/10ozE34YHHrMItE4WGllEQw0PQ3QH6r-t). Submission instructions are at the bottom of the Colab notebook.
+
+## Thursday, July 30
+
+1. Learn about "The Central Limit Theorem", then measure your understanding.
+2. Study for Exam 2 tomorrow. Make sure you have reviewed [the instructions here](https://dlsun.github.io/Stat305-S20/exam2).
+
+## Friday, July 31
+
+1. Exam 2 from 12 PM to 2 PM. Make sure you have reviewed [the instructions here](https://dlsun.github.io/Stat305-S20/exam2).
