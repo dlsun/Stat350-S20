@@ -193,7 +193,7 @@ The activities for today are tedious but are manageable if you divide up the wor
 
 ## Thursday, July 30
 
-1. Learn about "The Central Limit Theorem", then measure your understanding.
+1. Learn about ["The Central Limit Theorem"](https://dlsun.github.io/probability/clt.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/110110).
 2. Study for Exam 2 tomorrow. Make sure you have reviewed [the instructions here](https://dlsun.github.io/Stat305-S20/exam2).
 
 ## Friday, July 31
