@@ -43,7 +43,7 @@ For each scenario:
 
 You may find Chapters 7 and 8 in the textbook _Probability with Applications in Engineering, Science, and Technology_ helpful. 
 A PDF of this book is available for free 
-[https://link-springer-com.ezproxy.lib.calpoly.edu/book/10.1007%2F978-3-319-52401-6](online through the Cal Poly Library).
+[online through the Cal Poly Library](https://link-springer-com.ezproxy.lib.calpoly.edu/book/10.1007%2F978-3-319-52401-6).
 
 ## Deliverables
 
