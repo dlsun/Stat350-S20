@@ -1,8 +1,10 @@
 ---
-layout: post
-mathjax: true
 title: STAT 350 Summer 2020
 ---
+
+<script type="text/javascript"
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
 
 # Final Project Info
 
