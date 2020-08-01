@@ -1,10 +1,9 @@
 ---
+mathjax: true
 title: STAT 350 Summer 2020
 ---
 
-<script type="text/javascript"
-      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-    </script>
+{% include mathjax.html %}
 
 # Final Project Info
 
@@ -22,9 +21,9 @@ Choose two of the following random processes.
 \[ X[n] = 0.8 Z[n] + 0.3 Z[n-1] - 0.1 Z[n-2].  \]
 2. Let $\Theta$ be a $\text{Uniform}(a=-\pi, b=\pi)$ random variable. Define a signal with random phase
 \[ X(t) = \cos(2\pi \cdot 300 t + \Theta). \]
-3. Consider a particle moving according to $\{ B(t) \}$ be Brownian motion with scale $\sigma = 3$ mm. Define the difference process 
+3. Consider a particle moving according to $\{ B(t) \}$ be Brownian motion with scale $\alpha = 3$ mm/s. Define the difference process 
 \[ D(t) = B(t) - B(t - 5), t \geq 5 \]
-which represents how far the particle has traveled in the
+which represents how far the particle has traveled in the last 5 seconds.
     
 For each scenario:
 
@@ -36,9 +35,9 @@ For each scenario:
 
 ## Resources
 
-You may find Chapters 7 and 8 in this textbook (_Probability with Applications in Engineering, Science, and Technology_) helpful. 
-A PDF of this book is available for free online 
-[https://link-springer-com.ezproxy.lib.calpoly.edu/book/10.1007%2F978-3-319-52401-6](through the Cal Poly Library).
+You may find Chapters 7 and 8 in the textbook _Probability with Applications in Engineering, Science, and Technology_ helpful. 
+A PDF of this book is available for free 
+[https://link-springer-com.ezproxy.lib.calpoly.edu/book/10.1007%2F978-3-319-52401-6](online through the Cal Poly Library).
 
 ## Deliverables
 
