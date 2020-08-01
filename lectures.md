@@ -199,3 +199,4 @@ The activities for today are tedious but are manageable if you divide up the wor
 ## Friday, July 31
 
 1. Exam 2 from 12 PM to 2 PM. Make sure you have reviewed [the instructions here](https://dlsun.github.io/Stat305-S20/exam2).
+2. [Final Project instructions](https://dlsun.github.io/Stat350-S20/project)
