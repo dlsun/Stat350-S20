@@ -18,11 +18,11 @@ final presentation session or submit a pre-recorded video.
 Choose two of the following random processes.
 
 1. Let $\{ Z[n] \}$ be white noise with power $\sigma^2 = 4$. Define the moving average process
-\[ X[n] = 0.8 Z[n] + 0.3 Z[n-1] - 0.1 Z[n-2].  \]
+$$ X[n] = 0.8 Z[n] + 0.3 Z[n-1] - 0.1 Z[n-2]. $$
 2. Let $\Theta$ be a $\text{Uniform}(a=-\pi, b=\pi)$ random variable. Define a signal with random phase
-\[ X(t) = \cos(2\pi \cdot 300 t + \Theta). \]
+$$ X(t) = \cos(2\pi \cdot 300 t + \Theta). $$
 3. Consider a particle moving according to $\{ B(t) \}$ be Brownian motion with scale $\alpha = 3$ mm/s. Define the difference process 
-\[ D(t) = B(t) - B(t - 5), t \geq 5 \]
+$$ D(t) = B(t) - B(t - 5), t \geq 5, $$
 which represents how far the particle has traveled in the last 5 seconds.
     
 For each scenario:
