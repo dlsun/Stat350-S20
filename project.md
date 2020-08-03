@@ -10,7 +10,7 @@ title: STAT 350 Summer 2020
 ## Overview
 
 Your task is to prepare two lectures exploring two random processes. You can work with a partner on this project. 
-The project is due on Friday, August 19. On that day, there will be optional final presentations. You may attend the 
+The project is due on Friday, August 21. On that day, there will be optional final presentations. You may attend the 
 final presentation session or submit a pre-recorded video.
 
 ## Task
