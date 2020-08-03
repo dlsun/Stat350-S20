@@ -200,3 +200,11 @@ The activities for today are tedious but are manageable if you divide up the wor
 
 1. Exam 2 from 12 PM to 2 PM. Make sure you have reviewed [the instructions here](https://dlsun.github.io/Stat305-S20/exam2).
 2. [Final Project instructions](https://dlsun.github.io/Stat350-S20/project)
+
+## Monday, August 3
+
+1. Learn about ["Random Processes"](https://dlsun.github.io/probability/random-process.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/111115).
+2. Learn about ["More Examples of Random Processes"](https://dlsun.github.io/probability/random-process-examples.html). There is 
+no deliverable for this lesson, but it should help you get started on your final project.
+3. Complete [the simulation activity](https://forms.gle/pG6GqJYDabRYY9P69).
+4. Don't forget to add your simulated moving average process to the class graph (link at the end of the form above).
