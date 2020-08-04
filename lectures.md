@@ -208,3 +208,8 @@ The activities for today are tedious but are manageable if you divide up the wor
 no deliverable for this lesson, but it should help you get started on your final project.
 3. Complete [the simulation activity](https://forms.gle/pG6GqJYDabRYY9P69).
 4. Don't forget to add your simulated moving average process to the class graph (link at the end of the form above).
+
+## Tuesday, August 4
+
+1. Learn about ["Brownian Motion"](https://dlsun.github.io/probability/brownian-motion.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/111328).
+2. Get started on your final project. Sketch what the three processes look like.
