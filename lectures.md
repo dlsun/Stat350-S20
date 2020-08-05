@@ -213,3 +213,26 @@ no deliverable for this lesson, but it should help you get started on your final
 
 1. Learn about ["Brownian Motion"](https://dlsun.github.io/probability/brownian-motion.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/111328).
 2. Get started on your final project. Sketch what the three processes look like.
+
+## Wednesday, August 5
+
+1. Learn about ["The Mean Function"](https://dlsun.github.io/probability/mean-function.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/111789).
+2. Learn about ["The Variance Function"](https://dlsun.github.io/probability/var-function.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/111328).
+3. Calculate the mean function of the three random processes for your final project.
+
+## Thursday, August 6
+
+1. Learn about "The Autocovariance Function", then measure your understanding.
+2. Calculate the autocovariance function of the three random processes for your final project.
+
+## Friday, August 7
+
+1. Learn about "Stationarity", then measure your understanding.
+2. Determine whether the three random processes for your final project are stationary.
+
+
+## Monday, August 10
+
+1. Learn about "Expected Power", then measure your understanding.
+2. Watch [this intuitive and graphical explanation of the Fourier Transform](https://www.youtube.com/watch?v=spUNpyF58BY), then measure 
+your understanding.
