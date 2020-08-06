@@ -17,7 +17,8 @@ final presentation session or submit a pre-recorded video.
 
 Choose two of the following random processes.
 
-1. Let $\{ Z[n] \}$ be white noise with power $\sigma^2 = 4$. Define the moving average process
+1. Let $\{ Z[n] \}$ be a white noise process consisting of i.i.d. random variables with mean $E[Z[n]] = 1$ and 
+variance $$\text{Var}[Z[n]] = 4$. Define the moving average process
 
     $$ X[n] = 0.8 Z[n] + 0.3 Z[n-1] - 0.1 Z[n-2]. $$
 
@@ -33,7 +34,7 @@ Choose two of the following random processes.
     
 For each scenario:
 
-1. Graph at least three realizations of the process.
+1. Graph at least three realizations of the process. (The graph can be made using any software that you choose. Even a neat handdrawing will suffice.)
 2. Calculate the mean and autocovariance functions. 
 3. Is the process stationary?
 4. Calculate and graph the power spectral density of this process.
