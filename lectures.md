@@ -222,13 +222,14 @@ no deliverable for this lesson, but it should help you get started on your final
 
 ## Thursday, August 6
 
-1. Learn about "The Autocovariance Function", then measure your understanding.
+1. Learn about ["The Autocovariance Function"](https://dlsun.github.io/probability/cov-function.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/112154).
 2. Calculate the autocovariance function of the three random processes for your final project.
 
 ## Friday, August 7
 
-1. Learn about "Stationarity", then measure your understanding.
+1. Learn about ["Stationary Processes"](https://dlsun.github.io/probability/stationary.html), then measure your understanding.
 2. Determine whether the three random processes for your final project are stationary.
+3. Optional reading: Chapter 7.1-7.6 on Random Processes in [this textbook](https://link-springer-com.ezproxy.lib.calpoly.edu/book/10.1007%2F978-3-319-52401-6). This will give you a deeper understanding of the material we covered this week.
 
 
 ## Monday, August 10
