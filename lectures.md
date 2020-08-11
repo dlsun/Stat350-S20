@@ -240,8 +240,9 @@ no deliverable for this lesson, but it should help you get started on your final
 
 ## Tuesday, August 11
 
-1. Review [Complex Numbers](https://dlsun.github.io/probability/complex.html), then check your understanding.
-2. Review [Fourier Transforms](https://dlsun.github.io/probability/fourier.html), then check your understanding.
+1. Review [Complex Numbers](https://dlsun.github.io/probability/complex.html), then [check your understanding](https://canvas.calpoly.edu/courses/25458/assignments/113525).
+2. Review [Fourier Transforms](https://dlsun.github.io/probability/fourier.html), then [check your understanding](https://canvas.calpoly.edu/courses/25458/assignments/113526).
+3. Complete this Colab on [Signal Processing in Python](https://colab.research.google.com/github/dlsun/Stat350-S20/blob/master/colabs/Signal_Processing_in_Python.ipynb). (It does not need to be submitted, but it is easy and will give you intuition about Fourier transforms and the Nyquist limit.
 
 ## Wednesday, August 12
 
