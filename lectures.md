@@ -246,7 +246,7 @@ no deliverable for this lesson, but it should help you get started on your final
 
 ## Wednesday, August 12
 
-1. Learn about ["The Power Spectral Density"](https://dlsun.github.io/probability/psd.html), then measure your understanding.
+1. Learn about ["The Power Spectral Density"](https://dlsun.github.io/probability/psd.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/113977).
 2. Calculate the PSDs of the processes for your final project.
 
 ## Thursday, August 13
