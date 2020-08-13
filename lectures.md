@@ -251,7 +251,7 @@ no deliverable for this lesson, but it should help you get started on your final
 
 ## Thursday, August 13
 
-1. Learn about ["LTI Filtering in the Time Domain"](https://dlsun.github.io/probability/lti-time.html), then measure your understanding.
+1. Learn about ["LTI Filtering in the Time Domain"](https://dlsun.github.io/probability/lti-time.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/114257).
 
 ## Friday, August 14
 
