@@ -255,5 +255,10 @@ no deliverable for this lesson, but it should help you get started on your final
 
 ## Friday, August 14
 
-1. Learn about ["LTI Filtering in the Frequency Domain"](https://dlsun.github.io/probability/lti-frequency.html), then measure your understanding.
-2. Fill out project survey.
+1. Learn about ["LTI Filtering in the Frequency Domain"](https://dlsun.github.io/probability/lti-frequency.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/114529).
+2. You and your project partner (if applicable) should add yourselves to [one of the Final Project Groups on Canvas](https://canvas.calpoly.edu/courses/25458/groups).
+3. Fill out [project survey](https://forms.gle/ZQAEB6ZnPaR9z5s57). Note that your final project materials should be submitted [on Canvas](https://canvas.calpoly.edu/courses/25458/assignments/114531) before **Friday, August 21 at 12 PM**.
+
+## Friday, August 21
+
+Final Project Presentation Session 12-3 PM
