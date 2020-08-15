@@ -54,4 +54,21 @@ itself is a video, you may skip this step.)
 
 ## Grading
 
-Grading will be based on correctness (100 points), clarity (100 points), and aesthetics (100 points).
+Grading will be based on the following rubric:
+
+- Correctness (100 points): 50 points for each process, based on...
+    - Graph of the process
+    - Calculation of the mean and autocovariance functions
+    - Calculation and graph of the power spectral density
+    - Defining an appropriate filter and correct calculation of the power spectral density at the output of the filter.
+- Clarity (100 points)
+    - Are topics ordered in a logical way?
+    - Are the verbal explanations clear and concise?
+    - Does the lesson strike the right balance of equations, text, and graphics? 
+    (All three are necessary. But too much of one is not desirable.)
+- Aesthetics and Presentation (100 points)
+    - Does the lesson capture the listener's interest?
+    - Is the lesson visually appealing?
+    - For group projects, both partners should talk equally in the presentation. 
+    (It is not okay to have one person present one process and the other person present the other process.) 
+    One suggestion is to frame the presentation as a dialogue or conversation.
