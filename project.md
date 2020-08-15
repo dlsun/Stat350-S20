@@ -17,8 +17,8 @@ final presentation session or submit a pre-recorded video.
 
 Choose two of the following random processes.
 
-1. Let $\{ Z[n] \}$ be a white noise process consisting of i.i.d. random variables with mean $E[Z[n]] = 1$ and 
-variance $\text{Var}[Z[n]] = 4$. Define the moving average process
+1. Start with white noise $\{ Z[n] \}$ consisting of i.i.d. random variables with mean $E[Z[n]] = 1$ and 
+variance $\text{Var}[Z[n]] = 4$. Study the moving average process $\{ X[n] \}$:
 
     $$ X[n] = 0.8 Z[n] + 0.3 Z[n-1] - 0.1 Z[n-2]. $$
 
