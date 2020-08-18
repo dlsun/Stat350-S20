@@ -38,7 +38,7 @@ For each scenario:
 2. Calculate the mean and autocovariance functions. 
 3. Is the process stationary?
 4. Calculate and graph the power spectral density of this process.
-5. Define a linear time-invariant filter, and pass this process through that filter.
+5. Define a linear time-invariant filter (your choice -- be creative!), and pass this process through that filter.
 
 ## Resources
 
@@ -48,7 +48,11 @@ A PDF of this book is available for free
 
 ## Deliverables
 
-1. A lesson, which can take many forms (e.g., Colab notebook, slides, video, website).
+1. A lesson, which can take many forms (e.g., Colab notebook, slides, video, website). You may assume that the 
+audience has taken STAT 350, but they may not have studied these particular scenarios. So you don't need to spend 
+time defining "autocovariance function" or the "Filter Theorem". However, it is still helpful if you connect your 
+calculations to the definitions and interpret your calculations in context. In other words, it may be a good idea to remind the 
+listener about definitions, but there is no need to teach the concept from scratch.
 2. Your presentation of the lesson, which you can do in the presentation session or record as a video. (Note: If your lesson 
 itself is a video, you may skip this step.)
 
